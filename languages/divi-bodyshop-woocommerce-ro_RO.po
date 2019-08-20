@@ -164,7 +164,7 @@ msgstr "Adaugă media"
 #: divi-bodyshop-woocommerce.php:3411
 #, fuzzy
 msgid "<strong>Error</strong>: First name is required!"
-msgstr "<strong>Eroare</strong> : este necesar un nume!"
+msgstr "<strong>Eroare</strong> : Numele este obligatoriu!"
 
 #: divi-bodyshop-woocommerce.php:3414
 msgid "<strong>Error</strong>: Last name is required!."
