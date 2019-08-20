@@ -164,16 +164,16 @@ msgstr "Adaugă media"
 #: divi-bodyshop-woocommerce.php:3411
 #, fuzzy
 msgid "<strong>Error</strong>: First name is required!"
-msgstr "<strong>Eroare</strong> : este necesar un nume!"
+msgstr "<strong>Eroare</strong> : Prenumele este obligatoriu!"
 
 #: divi-bodyshop-woocommerce.php:3414
 msgid "<strong>Error</strong>: Last name is required!."
-msgstr "<strong> Error </strong>: numele de familie este necesar!."
+msgstr "<strong> Error </strong>: Numele de familie este obligatoriu!."
 
 #: functions.php:17
 #, fuzzy
 msgid "Welcome to Divi Engine!"
-msgstr "Bine ați venit la motorul Divi!"
+msgstr "Bine ați venit la Divi Engine!"
 
 #: functions.php:22
 #, fuzzy
@@ -182,7 +182,7 @@ msgid ""
 "hope that you find it useful in your web design adventures."
 msgstr ""
 "În primul rând, vă mulțumim că ați cumpărat unul dintre pluginurile noastre! "
-"Sperăm că o veți găsi utile în aventurile dvs. de design web."
+"Sperăm că il veți găsi util în aventurile dvs. de web design."
 
 #: functions.php:26
 #, fuzzy
@@ -195,8 +195,8 @@ msgid ""
 "We know from time to time, things may not go to plan due to the number of "
 "different setups on WordPress sites."
 msgstr ""
-"Știm din timp în timp, lucrurile nu pot merge la planificare datorită "
-"numărului de setări diferite pe site-urile WordPress."
+"Știm ca uneori, lucrurile nu vor merge asa cum am planificat datorită "
+"numărului mare de setari din site-urile Wordpress."
 
 #: functions.php:31
 #, fuzzy
@@ -207,7 +207,7 @@ msgid ""
 msgstr ""
 "Nu vă faceți griji, suntem aici pentru a vă ajuta. Mai întâi, consultați "
 "documentația noastră (vedeți mai jos), dacă nu găsiți o soluție, utilizați "
-"secțiunea noastră de asistență pe site-ul nostru și vă vom ajuta să "
+"secțiunea noastră de asistență pe site și vă vom ajuta să "
 "rezolvați orice problemă."
 
 #: functions.php:37 titan-framework/titan-framework.php:188
@@ -247,7 +247,7 @@ msgstr "Meniul Divi Mega"
 #: functions.php:47
 #, fuzzy
 msgid "Divi Nitro video documentation"
-msgstr "Divi Nitro documentație video"
+msgstr "Documentație video Divi Nitro"
 
 #: functions.php:54
 msgid "Feedback"
