@@ -321,7 +321,7 @@ msgstr "Pagina Cos"
 
 #: functions.php:87
 msgid "Checkout Page"
-msgstr "Trimite Comanda"
+msgstr "Pagină finalizare comandă"
 
 #: functions.php:88
 msgid "Search Results Page"
@@ -338,12 +338,12 @@ msgstr "Șablon e-mail"
 #: functions.php:91
 #, fuzzy
 msgid "Mini Cart/Cart Icon Settings"
-msgstr "Mini Cart / Cart Cart Setări"
+msgstr "Setări iconiță Mini Coș / Coș"
 
 #: functions.php:92
 #, fuzzy
 msgid "Sale/New/Free Badge"
-msgstr "Vânzare / nou / insigna gratuită"
+msgstr "Insignă Reducere/Nou/Gratuit"
 
 #: functions.php:93
 #, fuzzy
@@ -362,7 +362,7 @@ msgstr "Setări"
 #: functions.php:96
 #, fuzzy
 msgid "Divi Engine Settings"
-msgstr "Setările motorului Divi"
+msgstr "Setări Divi Engine"
 
 #: functions.php:98
 #, fuzzy
@@ -411,7 +411,7 @@ msgstr "Shortcode"
 #: functions.php:115
 #, fuzzy
 msgid "Sharing icon style"
-msgstr "Schimbul stilului pictogramei"
+msgstr "Schimbare stil iconiță Distribuie"
 
 #: functions.php:127
 #, fuzzy
@@ -421,7 +421,7 @@ msgstr "înainte de text"
 #: functions.php:131
 #, fuzzy
 msgid "Enter in the text you want shown before the icons"
-msgstr "Introduceți în textul dorit afișat înaintea pictogramelor"
+msgstr "Introduceți textul dorit pentru a fi afișat înaintea pictogramelor"
 
 #: functions.php:135
 #, fuzzy
@@ -489,7 +489,7 @@ msgstr "Activați Pinterest"
 #: functions.php:171
 #, fuzzy
 msgid "Text/Icon color"
-msgstr "Culoare text / Icon"
+msgstr "Culoare text / Iconiță"
 
 #: functions.php:175
 #, fuzzy
@@ -522,7 +522,7 @@ msgid ""
 "If you would like to have a custom look for your select drop down fields - "
 "enable this."
 msgstr ""
-"Dacă doriți să aveți un aspect personalizat pentru câmpurile selectate "
+"Dacă doriți să aveți un aspect personalizat pentru câmpurile tip selector "
 "selectați - activați acest lucru."
 
 #: functions.php:224
@@ -559,24 +559,24 @@ msgstr "Mărime Font"
 #: functions.php:261 functions.php:627
 #, fuzzy
 msgid "Set the size of the text in the input."
-msgstr "Setați dimensiunea textului în intrare."
+msgstr "Setați dimensiunea textului la introducere."
 
 #: functions.php:270 functions.php:636
 msgid "Padding top"
-msgstr "Suprafața superioară"
+msgstr "Distanță margine superioară"
 
 #: functions.php:281 functions.php:647
 #, fuzzy
 msgid "Padding bottom"
-msgstr "Umplutură de fund"
+msgstr "Distanță margine inferioară"
 
 #: functions.php:292 functions.php:658
 msgid "Padding right"
-msgstr "Padding dreapta"
+msgstr "Padding/Distanță margine dreapta"
 
 #: functions.php:303 functions.php:669
 msgid "Padding left"
-msgstr "Padding left"
+msgstr "Padding/Distanță margine stânga"
 
 #: functions.php:314 functions.php:680
 #, fuzzy
@@ -603,7 +603,7 @@ msgstr "Punctat"
 #: functions.php:321 functions.php:515 functions.php:687
 #: includes/modules/ThankYouOrderOverview/ThankYouOrderOverview.php:141
 msgid "Dashed"
-msgstr "Punctată"
+msgstr "Liniuțe"
 
 #: functions.php:322 functions.php:516 functions.php:688
 #: includes/modules/ThankYouOrderOverview/ThankYouOrderOverview.php:143
@@ -613,12 +613,12 @@ msgstr "Solid"
 #: functions.php:323 functions.php:517 functions.php:689
 #: includes/modules/ThankYouOrderOverview/ThankYouOrderOverview.php:144
 msgid "Double"
-msgstr "Doublu"
+msgstr "Dublu"
 
 #: functions.php:324 functions.php:518 functions.php:690
 #: includes/modules/ThankYouOrderOverview/ThankYouOrderOverview.php:145
 msgid "Groove"
-msgstr "Groove"
+msgstr "Canelură"
 
 #: functions.php:325 functions.php:519 functions.php:691
 #: includes/modules/ThankYouOrderOverview/ThankYouOrderOverview.php:146
@@ -675,7 +675,7 @@ msgstr "Setați raza marginii."
 #: functions.php:390
 #, fuzzy
 msgid "Enable custom quantity field"
-msgstr "Activați câmpul cantitate particularizată"
+msgstr "Activați setări personalizate pentru câmpul cantitate"
 
 #: functions.php:396
 #, fuzzy
@@ -683,13 +683,13 @@ msgid ""
 "If you would like to have a custom look for your quantity field - enable "
 "this."
 msgstr ""
-"Dacă doriți să aveți un aspect personalizat pentru câmpul cantității - "
+"Dacă doriți să aveți un aspect personalizat pentru câmpul cantitate- "
 "permiteți acest lucru."
 
 #: functions.php:400
 #, fuzzy
 msgid "Quantity style"
-msgstr "Stilul cantitativ"
+msgstr "Stil pentru cantitate"
 
 #: functions.php:403
 #, fuzzy
@@ -708,7 +708,7 @@ msgstr "Lăţime"
 #: functions.php:415
 #, fuzzy
 msgid "Set the width of the quantity box."
-msgstr "Setați lățimea cutiei de cantitate."
+msgstr "Setați lățimea casetei pentru cantitate."
 
 #: functions.php:424 includes/modules/CatTitleHeader/CatTitleHeader.php:170
 msgid "Max Width"
@@ -748,14 +748,14 @@ msgid ""
 "Just scroll down till you see the icons and some letter below. <br>Copy the "
 "numbers and letters that appear after \"x\". "
 msgstr ""
-"Parcurgeți în jos până veți vedea icoanele și o scrisoare de mai jos. <br> "
+"Parcurgeți în jos până veți vedea icoanele și carcterele de sub acestea. <br> "
 "Copiați numerele și literele care apar după \"x\"."
 
 #: functions.php:456 functions.php:484 functions.php:735 functions.php:1887
 #: functions.php:5290
 #, fuzzy
 msgid "So"
-msgstr "Asa de"
+msgstr "Asadar"
 
 #: functions.php:456 functions.php:484 functions.php:735 functions.php:1887
 #: functions.php:5290
@@ -797,43 +797,43 @@ msgstr "Plus culoarea pictogramei"
 #: functions.php:496
 #, fuzzy
 msgid "Plus icon size"
-msgstr "Dimensiunea pictogramei Plus"
+msgstr "Plus dimensiunea pictogramei "
 
 #: functions.php:508
 #, fuzzy
 msgid "Quantity border style"
-msgstr "Cantitatea de graniță pentru cantitate"
+msgstr "Stil margine cantitate"
 
 #: functions.php:527
 #, fuzzy
 msgid "Quantity border size"
-msgstr "Cantitatea graniței cantitative"
+msgstr "Dimensiune margine cantitate"
 
 #: functions.php:539
 #, fuzzy
 msgid "Quantity border color"
-msgstr "Culoarea de margine a culorii"
+msgstr "Culoare margine cantitate"
 
 #: functions.php:547
 #, fuzzy
 msgid "Quantity border radius"
-msgstr "Cantitatea razei de graniță"
+msgstr "Raza de frontiera pt cantitate"
 
 #: functions.php:559
 #, fuzzy
 msgid "Quantity width"
-msgstr "Cantitate lățime"
+msgstr "Lățime cantitate"
 
 #: functions.php:570
 #, fuzzy
 msgid "Quantity height"
-msgstr "Cantitate înălțime"
+msgstr "Înălțime cantitate"
 
 #: functions.php:576
 #, fuzzy
 msgid "Set the height of the quantity box - set as 0 to not have a set height"
 msgstr ""
-"Setați înălțimea cutiei de cantitate - setați ca 0 pentru a nu avea o "
+"Setați înălțimea casetei pentru cantitate - setați 0 pentru a nu avea o "
 "înălțime setată"
 
 #: functions.php:587
@@ -853,7 +853,7 @@ msgid ""
 "your site as will remove some scripts)"
 msgstr ""
 "Dacă aveți, de exemplu, o casetă de selectare personalizată la checkout, "
-"selectați 2 o veți face diferit, astfel încât aceasta să fie menținută "
+"select2 o veți face diferit, astfel încât aceasta să fie menținută "
 "consecventă (și va grăbi site-ul dvs., deoarece va elimina unele scripturi)"
 
 #: functions.php:731
@@ -895,13 +895,13 @@ msgid ""
 "shortcode and paste it in the text or code module to display it"
 msgstr ""
 "Mai jos este o listă de coduri scurte pe care le puteți folosi pe site-ul "
-"dvs. - faceți clic pentru a copia codul scurt și a le lipi în modulul de "
+"dvs. - faceți clic pentru a copia codul scurt și lipiți-l în modulul de "
 "text sau de cod pentru al afișa"
 
 #: functions.php:803
 #, fuzzy
 msgid "Cart Icon:"
-msgstr "Cart icon:"
+msgstr "Pictogramă coș:"
 
 #: functions.php:803
 #, fuzzy
@@ -980,7 +980,7 @@ msgstr "Înălțimea etichetei"
 #: functions.php:889
 #, fuzzy
 msgid "Set how high you want the label to be."
-msgstr "Stabiliți cât de mare doriți să fie eticheta."
+msgstr "Stabiliți cât de înaltă doriți să fie eticheta."
 
 #: functions.php:898
 msgid "Label background color"
@@ -993,7 +993,7 @@ msgstr "Culoarea textului etichetei"
 #: functions.php:914
 #, fuzzy
 msgid "Out Of Stock Strike Through?"
-msgstr "Out of Stock Strike prin?"
+msgstr "Out Of Stock Strike Through?"
 
 #: functions.php:920
 #, fuzzy
@@ -1001,13 +1001,13 @@ msgid ""
 "If you would like your out of stock button variant swatches to not be "
 "clickable and have a line through them (diagonally) - enable this"
 msgstr ""
-"Dacă doriți ca swat-urile din variantele butonului din stoc să nu fie "
-"clicabile și să aibă o linie prin ele (în diagonală) - activați acest lucru"
+"Dacă doriți ca butonul Lipsă stoc ale variațiilor să nu fie "
+"clicuibil și să aibă o linie prin el (în diagonală) - activați acest lucru"
 
 #: functions.php:925
 #, fuzzy
 msgid "Colour Variation Type"
-msgstr "Tip de variație a culorii"
+msgstr "Culoarea variației"
 
 #: functions.php:929
 #, fuzzy
@@ -1017,17 +1017,17 @@ msgstr "Lățimea culorii"
 #: functions.php:932
 #, fuzzy
 msgid "Set how wide you want the color to be."
-msgstr "Setați cât de largă doriți să fie culoarea."
+msgstr "Setați cât de lată doriți să fie culoarea."
 
 #: functions.php:941
 #, fuzzy
 msgid "Colour Height"
-msgstr "Ină de culoare"
+msgstr "Inălțime culoare"
 
 #: functions.php:944
 #, fuzzy
 msgid "Set how high you want the color to be."
-msgstr "Setați cât de mare doriți să fie culoarea."
+msgstr "Setați cât de înaltă doriți să fie culoarea."
 
 #: functions.php:953
 #, fuzzy
@@ -1047,7 +1047,7 @@ msgstr ""
 #: functions.php:958
 #, fuzzy
 msgid "Fade out not active"
-msgstr "Faderea nu este activă"
+msgstr "Estomparea nu este activă"
 
 #: functions.php:959
 #, fuzzy
@@ -1057,7 +1057,7 @@ msgstr "Adăugați marginea activă"
 #: functions.php:965
 #, fuzzy
 msgid "If border - Border colour"
-msgstr "Dacă frontieră - Culoarea de frontieră"
+msgstr "Dacă margine - Culoare margine"
 
 #: functions.php:973
 #, fuzzy
@@ -1067,7 +1067,7 @@ msgstr "Dacă granița - Border în interiorul culorii"
 #: functions.php:981
 #, fuzzy
 msgid "If border - Border width"
-msgstr "Dacă frontieră - Lățime frontieră"
+msgstr "Dacă margine - Lățime margine"
 
 #: functions.php:992
 #, fuzzy
@@ -1111,7 +1111,7 @@ msgstr "Lățimea imaginii"
 #: functions.php:1018
 #, fuzzy
 msgid "Set how wide you want the image to be."
-msgstr "Stabiliți cât de mare doriți să fie imaginea."
+msgstr "Stabiliți cât de lată doriți să fie imaginea."
 
 #: functions.php:1027
 msgid "Image Height"
@@ -1120,7 +1120,7 @@ msgstr "Înălțimea imaginii"
 #: functions.php:1030
 #, fuzzy
 msgid "Set how high you want the image to be."
-msgstr "Stabiliți cât de mare doriți să fie imaginea."
+msgstr "Stabiliți cât de înaltă doriți să fie imaginea."
 
 #: functions.php:1050
 #, fuzzy
@@ -1185,7 +1185,7 @@ msgid ""
 "functionality - if you are not using them, disabling this is advised to save "
 "load time on your website."
 msgstr ""
-"Acest fișier js file este responsabil pentru funcția de galerie de produse "
+"Acest fișier js file este responsabil pentru peronalizarea galeriei de produse "
 "personalizate - dacă nu le utilizați, dezactivarea acestora este recomandată "
 "pentru a salva timpul de încărcare pe site-ul dvs. Web."
 
@@ -1414,7 +1414,7 @@ msgstr "Alegeți dacă doriți ca câmpul să fie complet lat sau lățime de 50
 #: functions.php:1198
 #, fuzzy
 msgid "Display Field on View Order page?"
-msgstr "Afișați câmpul Vizualizați câmpul Vizualizare comandă"
+msgstr "Afișați câmpul în pagina Vizualizare comandă?"
 
 #: functions.php:1204
 #, fuzzy
@@ -1443,7 +1443,7 @@ msgstr "După comandă"
 #, fuzzy
 msgid "Choose where you want to add the custom field to on the checkout page"
 msgstr ""
-"Alegeți unde doriți să adăugați câmpul personalizat pe pagina de control"
+"Alegeți unde doriți să adăugați câmpul personalizat pe pagina de finalizare comanda"
 
 #: functions.php:1234
 #, fuzzy
@@ -1669,12 +1669,12 @@ msgstr "Selectați Cart Empty Page Template"
 #: functions.php:1537
 #, fuzzy
 msgid "Make the Cart Page Fullwidth?"
-msgstr "Efectuați pagina completa a coșului de cumpărături?"
+msgstr "Setați Pagina Coș cu lățime completă?"
 
 #: functions.php:1546
 #, fuzzy
 msgid "Remove cart page title"
-msgstr "Eliminați titlul paginii cartului"
+msgstr "Eliminați titlul paginii Coș"
 
 #: functions.php:1566
 #, fuzzy
@@ -1694,7 +1694,7 @@ msgstr "Selectați Șablon de pagină de comandă"
 #: functions.php:1608
 #, fuzzy
 msgid "Checkout Style"
-msgstr "Verificați stilul"
+msgstr "Stil pagina finalizare comanda"
 
 #: functions.php:1612
 #, fuzzy
@@ -1708,17 +1708,17 @@ msgstr "Acordeon"
 #: functions.php:1614
 #, fuzzy
 msgid "One Page (cart and checkout)"
-msgstr "O pagină (cărucior și checkout)"
+msgstr "O pagină (coș și checkout)"
 
 #: functions.php:1615
 #, fuzzy
 msgid "Payment Right"
-msgstr "Dreptul la plată"
+msgstr "Secțiune plată în dreapta"
 
 #: functions.php:1622
 #, fuzzy
 msgid "Remove checkout title"
-msgstr "Eliminați titlul de checkout"
+msgstr "Eliminați titlul paginii checkout"
 
 #: functions.php:1631
 #, fuzzy
@@ -1728,7 +1728,7 @@ msgstr "Faceți fullwidth pagina de checkout"
 #: functions.php:1642
 #, fuzzy
 msgid "Guest checkout introduction text"
-msgstr "Text introductiv de introducere a comenzii"
+msgstr "Text introductiv pe pagina checkout"
 
 #: functions.php:1645
 #, fuzzy
@@ -1736,7 +1736,7 @@ msgid ""
 "If you have shopped with us before, please enter your details in the boxes "
 "below. If you are a new customer, please proceed to the next step."
 msgstr ""
-"Dacă ați cumpărat cu noi înainte, vă rugăm să introduceți datele dvs. în "
+"Dacă ați mai cumpărat produse de la noi, vă rugăm să introduceți datele dvs. în "
 "casetele de mai jos. Dacă sunteți un client nou, vă rugăm să treceți la "
 "pasul următor."
 
@@ -1747,7 +1747,7 @@ msgid ""
 "checkout."
 msgstr ""
 "Modificați textul care apare chiar deasupra formularului de autentificare "
-"când un invitat încearcă să se încheie."
+"când un invitat încearcă să finalizeze comanda."
 
 #: functions.php:1650
 #, fuzzy
@@ -1777,7 +1777,7 @@ msgstr "Modificați numele titlului de facturare în bara de progres"
 #: functions.php:1666
 #, fuzzy
 msgid "Multi Step 2 / Accordian Shipping Title"
-msgstr "Multi Step 2 / Titlul transportului Accordian"
+msgstr "Multi Step 2 / Acordeon Titlul transportului"
 
 #: functions.php:1670
 #, fuzzy
@@ -1787,7 +1787,7 @@ msgstr "Schimbați numele titlului Expediere pe bara de progres"
 #: functions.php:1674
 #, fuzzy
 msgid "Multi Step 3 / Accordian Order Information Title"
-msgstr "Multi pas 3 / Accordian Order Order Titlu"
+msgstr "Multi pas 3 / Acordeon Titlu Informatii Comanda"
 
 #: functions.php:1677 functions.php:1997
 msgid "Order Info"
@@ -1815,7 +1815,7 @@ msgstr "Schimbați numele titlului Info despre plăți în bara de progres"
 #: functions.php:1691
 #, fuzzy
 msgid "Style Your Checkout Area"
-msgstr "Stilul zonei de checkout"
+msgstr "SPersonalizează secțiunea checkout"
 
 #: functions.php:1697 includes/modules/CatTitleHeader/CatTitleHeader.php:148
 #: includes/modules/GlobalProSlider/GlobalProSlider.php:52
@@ -1826,18 +1826,18 @@ msgstr "Fundal"
 #: functions.php:1701
 #, fuzzy
 msgid "Checkout Background Colour"
-msgstr "Verificați culoarea de fundal"
+msgstr "Culoarea de fundal a paginii Checkout-Finalizare Comandă"
 
 #: functions.php:1709
 #, fuzzy
 msgid "Checkout Padding"
-msgstr "Verificați căutarea"
+msgstr "Distanța față de margine a secțiunii Checkout"
 
 #: functions.php:1712
 #, fuzzy
 msgid "Set the padding around the whole checkout area (inputs and progess bar)"
 msgstr ""
-"Setați căptușeala în jurul întregii zone de control (barele de intrări și de "
+"Setați distanța față de margine în jurul întregii zone de Checkout-Finalizare comanda (barele de intrări și de "
 "progres)"
 
 #: functions.php:1723 includes/modules/CheckoutBilling/CheckoutBilling.php:55
